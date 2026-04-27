@@ -1,0 +1,7 @@
+project_id = "jhltlhxhbwhydkntcejc"
+
+[functions.analyze-lesion]
+verify_jwt = false
+
+[functions.skin-chat]
+verify_jwt = false
